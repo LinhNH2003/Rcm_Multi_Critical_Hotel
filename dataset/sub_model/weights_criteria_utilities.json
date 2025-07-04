@@ -1,0 +1,164 @@
+{
+    "Tiện ích phòng": {
+        "Nhân viên phục vụ": 0.625,
+        "Tiện nghi": 1.0,
+        "Sạch sẽ": 0.875,
+        "Thoải mái": 1.0,
+        "Đáng giá tiền": 0.875,
+        "Địa điểm": 0.625,
+        "WiFi miễn phí": 0.5
+    },
+    "Tiện ích công nghệ & kết nối": {
+        "Nhân viên phục vụ": 0.5,
+        "Tiện nghi": 0.875,
+        "Sạch sẽ": 0.625,
+        "Thoải mái": 0.75,
+        "Đáng giá tiền": 0.75,
+        "Địa điểm": 0.625,
+        "WiFi miễn phí": 1.0
+    },
+    "Tiện ích phòng tắm": {
+        "Nhân viên phục vụ": 0.5,
+        "Tiện nghi": 1.0,
+        "Sạch sẽ": 0.875,
+        "Thoải mái": 0.875,
+        "Đáng giá tiền": 0.75,
+        "Địa điểm": 0.5,
+        "WiFi miễn phí": 0.5
+    },
+    "Dịch vụ ẩm thực": {
+        "Nhân viên phục vụ": 0.75,
+        "Tiện nghi": 0.875,
+        "Sạch sẽ": 0.75,
+        "Thoải mái": 0.875,
+        "Đáng giá tiền": 1.0,
+        "Địa điểm": 0.625,
+        "WiFi miễn phí": 0.5
+    },
+    "Tiện ích thư giãn & giải trí": {
+        "Nhân viên phục vụ": 0.625,
+        "Tiện nghi": 0.875,
+        "Sạch sẽ": 0.75,
+        "Thoải mái": 1.0,
+        "Đáng giá tiền": 0.875,
+        "Địa điểm": 0.75,
+        "WiFi miễn phí": 0.5
+    },
+    "Tiện ích dành cho trẻ em": {
+        "Nhân viên phục vụ": 0.625,
+        "Tiện nghi": 0.75,
+        "Sạch sẽ": 0.75,
+        "Thoải mái": 0.875,
+        "Đáng giá tiền": 0.875,
+        "Địa điểm": 0.625,
+        "WiFi miễn phí": 0.5
+    },
+    "Dịch vụ khách sạn": {
+        "Nhân viên phục vụ": 1.0,
+        "Tiện nghi": 0.875,
+        "Sạch sẽ": 0.75,
+        "Thoải mái": 0.875,
+        "Đáng giá tiền": 0.875,
+        "Địa điểm": 0.625,
+        "WiFi miễn phí": 0.625
+    },
+    "Dịch vụ bảo mật & an toàn": {
+        "Nhân viên phục vụ": 0.625,
+        "Tiện nghi": 0.75,
+        "Sạch sẽ": 1.0,
+        "Thoải mái": 0.875,
+        "Đáng giá tiền": 0.875,
+        "Địa điểm": 0.625,
+        "WiFi miễn phí": 0.5
+    },
+    "Dịch vụ tổ chức sự kiện": {
+        "Nhân viên phục vụ": 0.75,
+        "Tiện nghi": 0.75,
+        "Sạch sẽ": 0.625,
+        "Thoải mái": 0.75,
+        "Đáng giá tiền": 0.875,
+        "Địa điểm": 0.75,
+        "WiFi miễn phí": 0.5
+    },
+    "Tiện nghi hỗ trợ đặc biệt": {
+        "Nhân viên phục vụ": 0.75,
+        "Tiện nghi": 0.75,
+        "Sạch sẽ": 0.75,
+        "Thoải mái": 0.75,
+        "Đáng giá tiền": 0.875,
+        "Địa điểm": 0.75,
+        "WiFi miễn phí": 0.625
+    },
+    "Dịch vụ giải trí ngoài trời": {
+        "Nhân viên phục vụ": 0.625,
+        "Tiện nghi": 0.875,
+        "Sạch sẽ": 0.75,
+        "Thoải mái": 1.0,
+        "Đáng giá tiền": 0.875,
+        "Địa điểm": 0.75,
+        "WiFi miễn phí": 0.5
+    },
+    "Dịch vụ bãi đỗ xe": {
+        "Nhân viên phục vụ": 0.625,
+        "Tiện nghi": 0.75,
+        "Sạch sẽ": 0.625,
+        "Thoải mái": 0.75,
+        "Đáng giá tiền": 0.75,
+        "Địa điểm": 0.875,
+        "WiFi miễn phí": 0.5
+    },
+    "Tiện ích thiên nhiên": {
+        "Nhân viên phục vụ": 0.625,
+        "Tiện nghi": 0.875,
+        "Sạch sẽ": 0.875,
+        "Thoải mái": 1.0,
+        "Đáng giá tiền": 0.875,
+        "Địa điểm": 0.875,
+        "WiFi miễn phí": 0.5
+    },
+    "Hệ thống điều hòa & sưởi ấm": {
+        "Nhân viên phục vụ": 0.5,
+        "Tiện nghi": 1.0,
+        "Sạch sẽ": 0.875,
+        "Thoải mái": 1.0,
+        "Đáng giá tiền": 0.875,
+        "Địa điểm": 0.625,
+        "WiFi miễn phí": 0.5
+    },
+    "Cơ sở vật chất chung": {
+        "Nhân viên phục vụ": 0.625,
+        "Tiện nghi": 1.0,
+        "Sạch sẽ": 0.875,
+        "Thoải mái": 1.0,
+        "Đáng giá tiền": 0.875,
+        "Địa điểm": 0.75,
+        "WiFi miễn phí": 0.625
+    },
+    "Dịch vụ chăm sóc sức khỏe & spa": {
+        "Nhân viên phục vụ": 0.625,
+        "Tiện nghi": 0.875,
+        "Sạch sẽ": 0.875,
+        "Thoải mái": 1.0,
+        "Đáng giá tiền": 0.75,
+        "Địa điểm": 0.625,
+        "WiFi miễn phí": 0.5
+    },
+    "Dịch vụ đưa đón & phương tiện di chuyển": {
+        "Nhân viên phục vụ": 0.625,
+        "Tiện nghi": 0.75,
+        "Sạch sẽ": 0.625,
+        "Thoải mái": 0.75,
+        "Đáng giá tiền": 0.75,
+        "Địa điểm": 1.0,
+        "WiFi miễn phí": 0.5
+    },
+    "Tiện ích công việc": {
+        "Nhân viên phục vụ": 0.5,
+        "Tiện nghi": 0.875,
+        "Sạch sẽ": 0.625,
+        "Thoải mái": 0.75,
+        "Đáng giá tiền": 0.75,
+        "Địa điểm": 0.75,
+        "WiFi miễn phí": 1.0
+    }
+}
