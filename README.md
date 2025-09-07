@@ -318,19 +318,4 @@ python main.py --mode interactive --config debug_config.json
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Tạo Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Liên hệ
-
-- Email: your.email@example.com
-- Project Link: [https://github.com/yourusername/hotel-recommendation-system](https://github.com/yourusername/hotel-recommendation-system)
-
-## Acknowledgments
-
-- Sentence Transformers library
-- FAISS for similarity search
-- Selenium for web scraping
-- Scikit-learn for machine learning utilities
 
